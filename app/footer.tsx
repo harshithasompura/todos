@@ -28,10 +28,10 @@ export function Footer() {
           <span>harshithasompura.codes@gmail.com</span>
         </a>
         <a
-          href="https://github.com/harshithasompura"
+          href="https://github.com/harshithasompura/todos"
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="GitHub profile"
+          aria-label="Todos GitHub repo"
           className="inline-flex items-center hover:text-zinc-900 dark:hover:text-white transition-colors"
         >
           <GithubMark size={18} />
